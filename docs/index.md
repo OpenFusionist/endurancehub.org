@@ -8,10 +8,10 @@
 
 ### Official
 
-- [Endurance explorer](https://explorer-endurance.fusionist.io/) - 👈 As titled.
+- [Endurance Explorer](https://explorer-endurance.fusionist.io/) - 👈 As titled.
 - [Endurance Beacon Chain Explorer](https://beacon.fusionist.io/) - 👈 As titled.
 - [Staking ACE](https://staking.fusionist.io/en/) [(+More)](https://openfusionist.github.io/staking-docs/) - 🛡️ Become a validator and help secure the future of Endurance.
-- [Safe wallet](https://safewallet.fusionist.io/) - 👛 Safe{Wallet} on Endurance.
+- [Safe Wallet](https://safewallet.fusionist.io/) - 👛 Safe{Wallet} on Endurance.
 - [Tesseract](https://www.tesseract.world/) - 💰 DEX & NFT Marketplace.
 - [Did The Team Do Something Today](https://didtheteamdosomething.today) - 🤔 Github commit history of Fusionist team members.
 - [Are we the minority yet?](https://arewetheminorityyet.com/) - 🍩 The share of our validators across the network.
