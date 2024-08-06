@@ -19,7 +19,7 @@ export default defineConfig({
     // },
     editLink: {
       pattern:
-        "https://github.com/OpenFusionist/endurancehub.org/edit/master/docs/:path",
+        "https://github.com/OpenFusionist/endurancehub.org/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
     lastUpdated: {
