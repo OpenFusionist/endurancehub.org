@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Awesome Endurance</h1> 
-  <p align="center">A curated list of awesome <a href="https://ace.fusionist.io/">Endurance</a> resources, libraries, tools and more.</p>
+  <p align="center">Developer's Gateway to the B-Side of the <a href="https://ace.fusionist.io/">Endurance</a> Ecosystem.</p>
 
 </div>
  

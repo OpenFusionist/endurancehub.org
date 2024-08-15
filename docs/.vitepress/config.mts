@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Endurance Hub",
-  description: "Home is where the heart is.",
+  description: "Developer's Gateway to the B-Side of the Endurance Ecosystem",
   ignoreDeadLinks: "localhostLinks",
   sitemap: {
     hostname: "https://endurancehub.org",
@@ -20,7 +20,7 @@ export default defineConfig({
     editLink: {
       pattern:
         "https://github.com/OpenFusionist/endurancehub.org/edit/main/docs/:path",
-      text: "Edit this page on GitHub",
+      text: "Count me in!",
     },
     lastUpdated: {
       text: "Updated at",
