@@ -14,6 +14,7 @@
 - [Safe Wallet](https://safewallet.fusionist.io/) - 👛 Safe{Wallet} on Endurance.
 - [Tesseract](https://www.tesseract.world/) - 💰 DEX & NFT Marketplace.
 - [Did The Team Do Something Today](https://didtheteamdosomething.today) - 🤔 Github commit history of Fusionist team members.
+- [Devlogs](https://devlog.fusionist.io/) - ✏ On and off, sharing some progress and thoughts about the tech team.
 - [Are we the minority yet?](https://arewetheminorityyet.com/) - 🍩 The share of our validators across the network.
 - [Solo Staker Make Endurance Great](https://discord-solostaker.fusionist.io/) - 🐒 Eundurance Official Solo Staker incentive.
 - [Are we fast yet?](https://arewefastyet.report/) - ⚡ ETH Clients Benchmark Report.
