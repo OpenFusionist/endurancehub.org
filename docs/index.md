@@ -18,6 +18,7 @@
 - [Are we the minority yet?](https://arewetheminorityyet.com/) - 🍩 The share of our validators across the network.
 - [Solo Staker Make Endurance Great](https://discord-solostaker.fusionist.io/) - 🐒 Eundurance Official Solo Staker incentive.
 - [Are we fast yet?](https://arewefastyet.report/) - ⚡ ETH Clients Benchmark Report.
+- [Fusionist Galaxy Viewer](https://galaxy.fusionist.io/) - 🌌 A faction and planet previewer for the universe of the Fusionist game.
 
 ### Community
 - [Palantir](https://palantir.ws/) -  ❤️ NFT showcasing platform created voluntarily by the Palantir team([@Inrikus](https://x.com/MikeSco67162628) [@No_Suli4](https://t.me/No_Suli4))
