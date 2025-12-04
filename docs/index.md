@@ -9,7 +9,8 @@
 ### Official
 
 - [Endurance Explorer](https://explorer-endurance.fusionist.io/) - 👈 As titled.
-- [Endurance Beacon Chain Explorer](https://beacon.fusionist.io/) - 👈 As titled.
+- [Simple Endurance Beacon Chain Explorer](https://light-beacon.fusionist.io/) - 👈 As titled.
+- [Simple Staker Rewards Dashboard](https://light-beacon-rewards.fusionist.io) - 🏛️ Lightweight, yet powerful enough for most stakers.
 - [Staking ACE](https://staking.fusionist.io/en/) [(+More)](https://openfusionist.github.io/staking-docs/) - 🛡️ Become a validator and help secure the future of Endurance.
 - [Safe Wallet](https://safewallet.fusionist.io/) ([Version 1.4.1](https://safewallet141.fusionist.io)) - 👛 Safe{Wallet} on Endurance.
 - [Tesseract](https://www.tesseract.world/) - 💰 DEX & NFT Marketplace.
